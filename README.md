@@ -15,6 +15,6 @@
 </p>
 
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=🎉+Shiny+Library+🎉;🤖+by+nightlxight)](https://git.io/typing-svg)
+[![Typing SVG]https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=🎉+Shiny+Library+🎉;🤖+by+nightlxight](https://git.io/typing-svg)
 
 <br>
