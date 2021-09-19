@@ -1,0 +1,6 @@
+---
+
+# General Configuration
+
+space: " "
+errorMessage: "There was an error!"
