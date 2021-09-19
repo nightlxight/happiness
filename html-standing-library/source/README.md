@@ -1,2 +1,2 @@
 # HTML
-**HTML** stands for the Hypertext Markup Language
+**HTML** stands for `the Hypertext Markup Language`
