@@ -1,6 +1,7 @@
 var fs = require('fs');
 const yaml = require('js-yaml');
-const settings = yaml.load(fs.readFileSync('../settings.yml', 'utf8'));
+const path = require('path');
+const settings = yaml.load(fs.readFileSync(path.join('source', '/settings.yml'), 'utf8'));
 const {car} = require('./car-bmw.js');
 
 function log() {
