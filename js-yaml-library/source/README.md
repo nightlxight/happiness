@@ -1,2 +1,5 @@
-# Coming soon
-Any help would be appreciated
+# Installation
+
+```
+npm install js-yaml
+```
